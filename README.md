@@ -31,7 +31,6 @@ Full Stack Developer | React & Python Enthusiast | Building web applications and
   <img src="https://skillicons.dev/icons?i=postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="48" heigth="48" rx="60" />
   <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://skillicons.dev/icons?i=trello" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="48" heigth="48" rx="60" />
   
 </p>
