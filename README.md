@@ -10,55 +10,55 @@ Full Stack Developer | React & Python Enthusiast | Building web applications and
 <h3>FrontEnd</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=react" width="30" height="30" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/React-React-61DAFB?style=for-the-badge&logo=react&logoColor=white" height="30" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/React-React-61DAFB?style=for-the-badge" height="30" style="vertical-align: middle;" />
 
   <img src="https://skillicons.dev/icons?i=js" width="30" height="30" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/JavaScript-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="30" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/JavaScript-JS-F7DF1E?style=for-the-badge" height="30" style="vertical-align: middle;" />
 
   <img src="https://skillicons.dev/icons?i=css" width="30" height="30" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/CSS3-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="30" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/CSS3-CSS-1572B6?style=for-the-badge" height="30" style="vertical-align: middle;" />
 
   <img src="https://skillicons.dev/icons?i=bootstrap" width="30" height="30" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/Bootstrap-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="30" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/Bootstrap-Bootstrap-7952B3?style=for-the-badge" height="30" style="vertical-align: middle;" />
 </p>
 
 <h3>BackEnd</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=python" width="30" height="30" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/Python-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/Python-Python-3776AB?style=for-the-badge" height="30" style="vertical-align: middle;" />
 
   <img src="https://skillicons.dev/icons?i=flask" width="30" height="30" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/Flask-Flask-000000?style=for-the-badge&logo=flask&logoColor=white" height="30" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/Flask-Flask-000000?style=for-the-badge" height="30" style="vertical-align: middle;" />
 </p>
 
 <h3>Database</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg" width="30" height="30" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/Firebird-Database-EE4000?style=for-the-badge&logo=firebird&logoColor=white" height="30" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/Firebird-Database-EE4000?style=for-the-badge" height="30" style="vertical-align: middle;" />
 </p>
 
 <h3>Tools</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=webstorm" width="30" height="30" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/WebStorm-WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" height="30" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/WebStorm-WebStorm-000000?style=for-the-badge" height="30" style="vertical-align: middle;" />
 
   <img src="https://skillicons.dev/icons?i=pycharm" width="30" height="30" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/PyCharm-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" height="30" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/PyCharm-PyCharm-000000?style=for-the-badge" height="30" style="vertical-align: middle;" />
 
   <img src="https://skillicons.dev/icons?i=vscode" width="30" height="30" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/VSCode-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" height="30" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/VSCode-VS_Code-007ACC?style=for-the-badge" height="30" style="vertical-align: middle;" />
 
   <img src="https://skillicons.dev/icons?i=postman" width="30" height="30" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/Postman-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/Postman-Postman-FF6C37?style=for-the-badge" height="30" style="vertical-align: middle;" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="30" height="30" style="vertical-align: middle;" />
   <img src="https://img.shields.io/badge/DBeaver-DBeaver-382923?style=for-the-badge" height="30" style="vertical-align: middle;" />
 
   <img src="https://skillicons.dev/icons?i=figma" width="30" height="30" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/Figma-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="30" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/Figma-Figma-F24E1E?style=for-the-badge" height="30" style="vertical-align: middle;" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="30" height="30" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/Trello-Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" height="30" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/Trello-Trello-0052CC?style=for-the-badge" height="30" style="vertical-align: middle;" />
 </p>
 
 <h2>💫 Featured Projects</h3>
