@@ -45,8 +45,6 @@ Full Stack Developer | React & Python Enthusiast | Building web applications and
         <img src="https://skillicons.dev/icons?i=pycharm" />
         <img src="https://skillicons.dev/icons?i=vscode" />
         <img src="https://skillicons.dev/icons?i=postman" />
-      </p>
-      <p>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"
           width="48"
