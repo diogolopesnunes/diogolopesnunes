@@ -9,40 +9,40 @@ Full Stack Developer | React & Python Enthusiast | Building web applications and
 
 <h3>FrontEnd</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=react" width="20" height="20" />
-    <img src="https://skillicons.dev/icons?i=js" width="20" height="20" />
-    <img src="https://skillicons.dev/icons?i=css" width="20" height="20" />
-    <img src="https://skillicons.dev/icons?i=bootstrap" width="20" height="20" />
+    <img src="https://skillicons.dev/icons?i=react" width="30" height="30" />
+    <img src="https://skillicons.dev/icons?i=js" width="30" height="30" />
+    <img src="https://skillicons.dev/icons?i=css" width="30" height="30" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="30" height="30" />
   </p>
 <h3>BackEnd</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=python" width="20" height="20" />
-    <img src="https://skillicons.dev/icons?i=flask" width="20" height="20" />
+    <img src="https://skillicons.dev/icons?i=python" width="30" height="30" />
+    <img src="https://skillicons.dev/icons?i=flask" width="30" height="30" />
   </p>
 <h3>Database</h3>
   <p>
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg"
-      width="20"
-      height="20"
+      width="30"
+      height="30"
     />
   </p>
 <h3>Tools</h3>
   <p>
-    <img src="https://skillicons.dev/icons?i=webstorm" width="20" height="20" />
-    <img src="https://skillicons.dev/icons?i=pycharm" width="20" height="20" />
-    <img src="https://skillicons.dev/icons?i=vscode" width="20" height="20" />
-    <img src="https://skillicons.dev/icons?i=postman" width="20" height="20" />
+    <img src="https://skillicons.dev/icons?i=webstorm" width="30" height="30" />
+    <img src="https://skillicons.dev/icons?i=pycharm" width="30" height="30" />
+    <img src="https://skillicons.dev/icons?i=vscode" width="30" height="30" />
+    <img src="https://skillicons.dev/icons?i=postman" width="30" height="30" />
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"
-      width="20"
-      height="20"
+      width="30"
+      height="30"
     />
-    <img src="https://skillicons.dev/icons?i=figma" width="20" height="20" />
+    <img src="https://skillicons.dev/icons?i=figma" width="30" height="30" />
     <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg"
-      width="20"
-      height="20"
+      width="30"
+      height="30"
     />
   </p>
 
