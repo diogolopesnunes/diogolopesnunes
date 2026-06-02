@@ -3,89 +3,62 @@
 Full Stack Developer | React & Python Enthusiast | Building web applications and solving real-world problems.
 
 🎓 Systems Development Technician — SENAI
-<br>
 🎓 High School — expected graduation in 2026
+
+## 🛠️ Tech Stack
 
 <h3>FrontEnd</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=react" width="30" height="30" style="vertical-align: middle;" />
-  <a href="https://react.dev/">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square" height="30" style="vertical-align: middle;" />
-  </a>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square" height="30" style="vertical-align: middle;" />
 
   <img src="https://skillicons.dev/icons?i=js" width="30" height="30" style="vertical-align: middle;" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square" height="30" style="vertical-align: middle;" />
-  </a>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square" height="30" style="vertical-align: middle;" />
 
   <img src="https://skillicons.dev/icons?i=css" width="30" height="30" style="vertical-align: middle;" />
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square" height="30" style="vertical-align: middle;" />
-  </a>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square" height="30" style="vertical-align: middle;" />
 
   <img src="https://skillicons.dev/icons?i=bootstrap" width="30" height="30" style="vertical-align: middle;" />
-  <a href="https://getbootstrap.com/">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square" height="30" style="vertical-align: middle;" />
-  </a>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square" height="30" style="vertical-align: middle;" />
 </p>
 
 <h3>BackEnd</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=python" width="30" height="30" style="vertical-align: middle;" />
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" height="30" style="vertical-align: middle;" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" height="30" style="vertical-align: middle;" />
 
   <img src="https://skillicons.dev/icons?i=flask" width="30" height="30" style="vertical-align: middle;" />
-  <a href="https://flask.palletsprojects.com/">
-    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square" height="30" style="vertical-align: middle;" />
-  </a>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square" height="30" style="vertical-align: middle;" />
 </p>
 
 <h3>Database</h3>
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg" width="30" height="30" style="vertical-align: middle;" />
-  <a href="https://www.firebirdsql.org/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg" width="30" height="30" style="vertical-align: middle;" />
     <img src="https://img.shields.io/badge/Firebird-EE4000?style=flat-square" alt="Firebird Database" height="30" style="vertical-align: middle;">
-  </a>
 </p>
 
 <h3>Tools</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=webstorm" width="30" height="30" style="vertical-align: middle;" />
-  <a href="https://www.jetbrains.com/webstorm/">
-    <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square" height="30" style="vertical-align: middle;" />
-  </a>
+  <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square" height="30" style="vertical-align: middle;" />
 
   <img src="https://skillicons.dev/icons?i=pycharm" width="30" height="30" style="vertical-align: middle;" />
-  <a href="https://www.jetbrains.com/pycharm/">
-    <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square" height="30" style="vertical-align: middle;" />
-  </a>
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square" height="30" style="vertical-align: middle;" />
 
   <img src="https://skillicons.dev/icons?i=vscode" width="30" height="30" style="vertical-align: middle;" />
-  <a href="https://code.visualstudio.com/">
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square" height="30" style="vertical-align: middle;" />
-  </a>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square" height="30" style="vertical-align: middle;" />
 
   <img src="https://skillicons.dev/icons?i=postman" width="30" height="30" style="vertical-align: middle;" />
-  <a href="https://www.postman.com/">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square" height="30" style="vertical-align: middle;" />
-  </a>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square" height="30" style="vertical-align: middle;" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="30" height="30" style="vertical-align: middle;" />
-  <a href="https://dbeaver.io/">
-    <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square" height="30" style="vertical-align: middle;" />
-  </a>
+  <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square" height="30" style="vertical-align: middle;" />
 
   <img src="https://skillicons.dev/icons?i=figma" width="30" height="30" style="vertical-align: middle;" />
-  <a href="https://www.figma.com/">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square" height="30" style="vertical-align: middle;" />
-  </a>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square" height="30" style="vertical-align: middle;" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="30" height="30" style="vertical-align: middle;" />
-  <a href="https://trello.com/">
-    <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square" height="30" style="vertical-align: middle;" />
-  </a>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square" height="30" style="vertical-align: middle;" />
 </p>
 
 <h2>💫 Featured Projects</h3>
