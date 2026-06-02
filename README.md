@@ -10,7 +10,7 @@ Full Stack Developer | React & Python Enthusiast | Building web applications and
 <h3>FrontEnd</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=react" width="30" height="30" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/React-React-61DAFB?style=for-the-badge&labelColor=61DAFB" height="30" style="vertical-align: middle;" />
+  <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=for-the-badge" height="30" style="vertical-align: middle;" />
 
   <img src="https://skillicons.dev/icons?i=js" width="30" height="30" style="vertical-align: middle;" />
   <img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge" height="30" style="vertical-align: middle;" />
