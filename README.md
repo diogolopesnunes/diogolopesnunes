@@ -5,6 +5,17 @@ Full Stack Developer | React & Python Enthusiast | Building web applications and
 🎓 Systems Development Technician — SENAI
 🎓 High School — expected graduation in 2026
 
+<pre>
+    💼 BSC @ UFMG • Back-end dev • Platform Engineer
+    💻 System programming languages • DevOps 
+    📖 Software architecture • Distributed systems
+    🎮 Music • Games • Anime • Code • Art
+    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim & Mingau 🐤🐥
+</pre>
+<br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br>
+
 ## 🛠️ Tech Stack
 
 <h3>FrontEnd</h3>
