@@ -7,9 +7,9 @@ Full Stack Developer | React & Python Enthusiast | Building web applications and
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div>
   <h3>FrontEnd</h3>
-  <p align="center">
+  <p>
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -17,30 +17,30 @@ Full Stack Developer | React & Python Enthusiast | Building web applications and
   </p>
 </div>
 
-<div align="center">
+<div>
   <h3>BackEnd</h3>
-  <p align="center">
+  <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   </p>
 </div>
 
-<div align="center">
+<div>
   <h3>Database</h3>
-  <p align="center">
+  <p>
     <img src="https://img.shields.io/badge/Firebird-EE4000?style=for-the-badge&logo=firebird&logoColor=white" />
   </p>
 </div>
 
-<div align="center">
+<div>
   <h3>Tools</h3>
-  <p align="center">
+  <p>
     <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" />
     <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   </p>
-  <p align="center">
+  <p>
     <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
