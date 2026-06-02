@@ -13,7 +13,7 @@ Desenvolvedor Full Stack focado em React e Python.
   <img src="https://skillicons.dev/icons?i=bootstrap" />
   <img src="https://skillicons.dev/icons?i=webstorm" />
   <img src="https://skillicons.dev/icons?i=pycharm" />
-  <img src="https://www.firebirdsql.org/img/main-logo-news.png" height="48" width="48" rx="60" />
+  <i class="devicon-firebird-plain colored"></i>
 </p>
 
 ## 📌 Projetos em destaque
