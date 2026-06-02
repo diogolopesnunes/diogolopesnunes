@@ -7,35 +7,61 @@ Full Stack Developer | React & Python Enthusiast | Building web applications and
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<table border="0">
+  <tr>
+    <td valign="top">
+      <h3>FrontEnd</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react" />
+        <img src="https://skillicons.dev/icons?i=js" />
+        <img src="https://skillicons.dev/icons?i=css" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" />
+      </p>
+    </td>
+    <td valign="top">
+      <h3>BackEnd</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=python" />
+        <img src="https://skillicons.dev/icons?i=flask" />
+      </p>
+    </td>
+  </tr>
 
-  <h3>FrontEnd</h3>
-  <img src="https://skillicons.dev/icons?i=react,js,css,bootstrap" />
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <h3>BackEnd</h3>
-  <img src="https://skillicons.dev/icons?i=python,flask" />
-  
-  <br><br>
-  
-  <h3>Database</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg"
-       width="48"
-       height="48" />
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  
-  <h3>Tools</h3>
-  <img src="https://skillicons.dev/icons?i=webstorm,pycharm,vscode,postman,figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"
-       width="48"
-       height="48" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg"
-       width="48"
-       height="48" />
-
-</div>
+  <tr>
+    <td valign="top">
+      <h3>Database</h3>
+      <p>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg"
+          width="48"
+          height="48"
+        />
+      </p>
+    </td>
+    <td valign="top">
+      <h3>Tools</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=webstorm" />
+        <img src="https://skillicons.dev/icons?i=pycharm" />
+        <img src="https://skillicons.dev/icons?i=vscode" />
+        <img src="https://skillicons.dev/icons?i=postman" />
+      </p>
+      <p>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"
+          width="48"
+          height="48"
+        />
+        <img src="https://skillicons.dev/icons?i=figma" />
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg"
+          width="48"
+          height="48"
+        />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <h2>💫 Featured Projects</h3>
 
