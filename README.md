@@ -3,13 +3,16 @@
 Desenvolvedor Full Stack focado em React e Python.
 
 ## 🚀 Tecnologias
-- React <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="100%" heigth="100%" >
-- JavaScript
-- Python
-- Flask
-- Firebird
-- HTML/CSS
-- Bootstrap
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=flask" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
+  <img src="https://leadsbridge.com/integrations/firebird/google-sheets" />
+</p>
 
 ## 📌 Projetos em destaque
 - Plataforma de doações para ONGs
