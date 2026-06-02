@@ -13,7 +13,7 @@ Full Stack Developer | React & Python Enthusiast | Building web applications and
     <img src="https://skillicons.dev/icons?i=bootstrap" />
   </p>
 </div>
-<div>
+<div align="center">
   <h3>BackEnd</h3>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=python" />
