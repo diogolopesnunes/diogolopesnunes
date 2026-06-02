@@ -4,36 +4,43 @@ Full Stack Developer | React & Python Enthusiast | Building web applications and
 
 ## 🛠️ Tech Stack
 
-### FrontEnd
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" />
-</p>
+<div align="center">
+  ### FrontEnd
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=react" />
+    <img src="https://skillicons.dev/icons?i=js" />
+    <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </p>
+</div>
+<div>
+  ### BackEnd
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python" />
+    <img src="https://skillicons.dev/icons?i=flask" />
+  </p>
+</div>
 
-### BackEnd
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=flask" />
-</p>
+<div align="center">
+  ### DataBase
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg" width="48" heigth="48" rx="60" />
+  </p>
+</div>
 
-### DataBase
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg" width="48" heigth="48" rx="60" />
-</p>
-
-### Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=webstorm" />
-  <img src="https://skillicons.dev/icons?i=pycharm" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=postman" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="48" heigth="48" rx="60" />
-  <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="48" heigth="48" rx="60" />
-  
-</p>
+<div align="center">
+  ### Tools
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=webstorm" />
+    <img src="https://skillicons.dev/icons?i=pycharm" />
+    <img src="https://skillicons.dev/icons?i=vscode" />
+    <img src="https://skillicons.dev/icons?i=postman" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="48" heigth="48" rx="60" />
+    <img src="https://skillicons.dev/icons?i=figma" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="48" heigth="48" rx="60" />
+    
+  </p>
+</div>
 
 ## 💫 Featured Projects
 
