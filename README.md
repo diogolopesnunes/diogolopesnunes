@@ -34,7 +34,9 @@ Full Stack Developer | React & Python Enthusiast | Building web applications and
 <h3>Database</h3>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg" width="30" height="30" style="vertical-align: middle;" />
-  [![Firebird Database](https://img.shields.io/badge/Firebird-Database-EE4000?style=flat-square)](https://www.firebirdsql.org/)
+  <a href="https://www.firebirdsql.org/">
+    <img src="https://img.shields.io/badge/Firebird-Database-EE4000?style=flat-square" alt="Firebird Database" height="30" style="vertical-align: middle;">
+  </a>
 </p>
 
 <h3>Tools</h3>
