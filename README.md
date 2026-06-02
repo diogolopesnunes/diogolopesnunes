@@ -5,7 +5,7 @@ Full Stack Developer | React & Python Enthusiast | Building web applications and
 ## 🛠️ Tech Stack
 
 <div align="center">
-  ### FrontEnd
+  <h3>FrontEnd</h3>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=react" />
     <img src="https://skillicons.dev/icons?i=js" />
@@ -14,7 +14,7 @@ Full Stack Developer | React & Python Enthusiast | Building web applications and
   </p>
 </div>
 <div>
-  ### BackEnd
+  <h3>BackEnd</h3>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=python" />
     <img src="https://skillicons.dev/icons?i=flask" />
@@ -22,14 +22,14 @@ Full Stack Developer | React & Python Enthusiast | Building web applications and
 </div>
 
 <div align="center">
-  ### DataBase
+  <h3>DataBase</h3>
   <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg" width="48" heigth="48" rx="60" />
   </p>
 </div>
 
 <div align="center">
-  ### Tools
+  <h3>Tools</h3>
   <p align="center">
     <img src="https://skillicons.dev/icons?i=webstorm" />
     <img src="https://skillicons.dev/icons?i=pycharm" />
@@ -42,7 +42,7 @@ Full Stack Developer | React & Python Enthusiast | Building web applications and
   </p>
 </div>
 
-## 💫 Featured Projects
+<h2>💫 Featured Projects</h3>
 
 ### [Conectando e Doando](https://github.com/diogolopesnunes/conectando-e-doando)
 
