@@ -1,8 +1,24 @@
-# Olá, eu sou o Diogo
+# Hello, I'm Diogo
 
 Desenvolvedor Full Stack focado em React e Python.
 
-## 🚀 Tecnologias
+## FrontEnd
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E44D27?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
+</p>
+
+## BackEnd
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=flask" />
+</p>
+
+## Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react" />
   <img src="https://skillicons.dev/icons?i=js" />
