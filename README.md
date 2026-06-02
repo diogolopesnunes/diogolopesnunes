@@ -7,45 +7,64 @@ Full Stack Developer | React & Python Enthusiast | Building web applications and
 
 ## 🛠️ Tech Stack
 
-<div>
-  <h3>FrontEnd</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=react" />
-    <img src="https://skillicons.dev/icons?i=js" />
-    <img src="https://skillicons.dev/icons?i=css" />
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
-  </p>
-</div>
-<div>
-  <h3>BackEnd</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=python" />
-    <img src="https://skillicons.dev/icons?i=flask" />
-  </p>
-</div>
+<table>
+  <tr>
+    <td valign="top">
+      <h3>FrontEnd</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react" />
+        <img src="https://skillicons.dev/icons?i=js" />
+        <img src="https://skillicons.dev/icons?i=css" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" />
+      </p>
+    </td>
 
-<div>
-  <h3>DataBase</h3>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg" width="48" heigth="48" rx="60" />
-  </p>
-</div>
+    <td valign="top">
+      <h3>BackEnd</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=python" />
+        <img src="https://skillicons.dev/icons?i=flask" />
+      </p>
+    </td>
+  </tr>
 
-<div>
-  <h3>Tools</h3>
-  <p>
-    <img src="https://skillicons.dev/icons?i=webstorm" />
-    <img src="https://skillicons.dev/icons?i=pycharm" />
-    <img src="https://skillicons.dev/icons?i=vscode" />
-    <img src="https://skillicons.dev/icons?i=postman" />
-  </p>
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="48" heigth="48" rx="60" />
-    <img src="https://skillicons.dev/icons?i=figma" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="48" heigth="48" rx="60" />
-  </p>
-</div>
+  <tr>
+    <td valign="top">
+      <h3>Database</h3>
+      <p>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg"
+          width="48"
+          height="48"
+        />
+      </p>
+    </td>
 
+    <td valign="top">
+      <h3>Tools</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=webstorm" />
+        <img src="https://skillicons.dev/icons?i=pycharm" />
+        <img src="https://skillicons.dev/icons?i=vscode" />
+        <img src="https://skillicons.dev/icons?i=postman" />
+      </p>
+
+      <p>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"
+          width="48"
+          height="48"
+        />
+        <img src="https://skillicons.dev/icons?i=figma" />
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg"
+          width="48"
+          height="48"
+        />
+      </p>
+    </td>
+  </tr>
+</table>
 <h2>💫 Featured Projects</h3>
 
 ### [Conectando e Doando](https://github.com/diogolopesnunes/conectando-e-doando)
