@@ -18,7 +18,6 @@ Full Stack Developer | React & Python Enthusiast | Building web applications and
         <img src="https://skillicons.dev/icons?i=bootstrap" />
       </p>
     </td>
-
     <td valign="top">
       <h3>BackEnd</h3>
       <p>
@@ -39,7 +38,6 @@ Full Stack Developer | React & Python Enthusiast | Building web applications and
         />
       </p>
     </td>
-
     <td valign="top">
       <h3>Tools</h3>
       <p>
@@ -48,7 +46,6 @@ Full Stack Developer | React & Python Enthusiast | Building web applications and
         <img src="https://skillicons.dev/icons?i=vscode" />
         <img src="https://skillicons.dev/icons?i=postman" />
       </p>
-
       <p>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"
