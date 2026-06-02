@@ -9,7 +9,7 @@ Full Stack Developer | React & Python Enthusiast | Building web applications and
 
 <div>
   <h3>FrontEnd</h3>
-  <p align="center">
+  <p>
     <img src="https://skillicons.dev/icons?i=react" />
     <img src="https://skillicons.dev/icons?i=js" />
     <img src="https://skillicons.dev/icons?i=css" />
