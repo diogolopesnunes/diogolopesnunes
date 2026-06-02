@@ -7,45 +7,59 @@ Full Stack Developer | React & Python Enthusiast | Building web applications and
 
 ## 🛠️ Tech Stack
 
-<div>
-  <h3>FrontEnd</h3>
-  <p>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  </p>
-</div>
+<table border="0">
+  <tr>
+    <td valign="top">
+      <h3>FrontEnd</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react" width="20" height="20" />
+        <img src="https://skillicons.dev/icons?i=js" width="20" height="20" />
+        <img src="https://skillicons.dev/icons?i=css" width="20" height="20" />
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="20" height="20" />
+      </p>
+    </td>
+    <td valign="top">
+      <h3>BackEnd</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=python" width="20" height="20" />
+        <img src="https://skillicons.dev/icons?i=flask" width="20" height="20" />
+      </p>
+    </td>
+  </tr>
 
-<div>
-  <h3>BackEnd</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  </p>
-</div>
-
-<div>
-  <h3>Database</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Firebird-EE4000?style=for-the-badge&logo=firebird&logoColor=white" />
-  </p>
-</div>
-
-<div>
-  <h3>Tools</h3>
-  <p>
-    <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" />
-    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-    <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-  </p>
-</div>
+  <tr>
+    <td valign="top">
+      <h3>Database</h3>
+      <p>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg"
+          width="20"
+          height="20"
+        />
+      </p>
+    </td>
+    <td valign="top">
+      <h3>Tools</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=webstorm" width="20" height="20" />
+        <img src="https://skillicons.dev/icons?i=pycharm" width="20" height="20" />
+        <img src="https://skillicons.dev/icons?i=vscode" width="20" height="20" />
+        <img src="https://skillicons.dev/icons?i=postman" width="20" height="20" />
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg"
+          width="20"
+          height="20"
+        />
+        <img src="https://skillicons.dev/icons?i=figma" width="20" height="20" />
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg"
+          width="20"
+          height="20"
+        />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <h2>💫 Featured Projects</h3>
 
