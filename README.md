@@ -11,7 +11,7 @@ Desenvolvedor Full Stack focado em React e Python.
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=bootstrap" />
-  <img src="[https://leadsbridge.com/integrations/firebird/google-sheets](https://dbdb.io/media/logos/firebird.png)" height="256" width="256" />
+  <img src="[https://leadsbridge.com/integrations/firebird/google-sheets](https://dbdb.io/media/logos/firebird.png)" height="48" width="48" rx="60" />
 </p>
 
 ## 📌 Projetos em destaque
