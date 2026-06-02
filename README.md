@@ -3,7 +3,7 @@
 Desenvolvedor Full Stack focado em React e Python.
 
 ## 🚀 Tecnologias
-- React
+- React <img src="hhtps://google.com/google.jpeg">
 - JavaScript
 - Python
 - Flask
