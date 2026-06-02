@@ -1,4 +1,4 @@
-# Olá, eu sou Diogo 👋
+# Olá, eu sou o Diogo
 
 Desenvolvedor Full Stack focado em React e Python.
 
@@ -11,6 +11,8 @@ Desenvolvedor Full Stack focado em React e Python.
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
   <img src="https://skillicons.dev/icons?i=bootstrap" />
+  <img src="https://skillicons.dev/icons?i=webstorm" />
+  <img src="https://skillicons.dev/icons?i=pycharm" />
   <img src="https://www.firebirdsql.org/img/main-logo-news.png" height="48" width="48" rx="60" />
 </p>
 
