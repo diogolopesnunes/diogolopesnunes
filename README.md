@@ -3,6 +3,7 @@
 Full Stack Developer | React & Python Enthusiast | Building web applications and solving real-world problems.
 
 🎓 Systems Development Technician — SENAI
+<br>
 🎓 High School — expected graduation in 2026
 
 ## 🛠️ Tech Stack
