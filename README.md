@@ -32,41 +32,61 @@ Full Stack Developer | React & Python Enthusiast | Building web applications and
 
 <h3>BackEnd</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=python" width="35" height="35" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" height="35" style="vertical-align: middle;" />
+  <span style="white-space: nowrap;">
+    <img src="https://skillicons.dev/icons?i=python" width="35" height="35" style="vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" height="35" style="vertical-align: middle;" />
+  </span>
 
-  <img src="https://skillicons.dev/icons?i=flask" width="35" height="35" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square" height="35" style="vertical-align: middle;" />
+  <span style="white-space: nowrap;">
+    <img src="https://skillicons.dev/icons?i=flask" width="35" height="35" style="vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=flat-square" height="35" style="vertical-align: middle;" />
+  </span>
 </p>
 
 <h3>Database</h3>
 <p>
+  <span style="white-space: nowrap;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg" width="35" height="35" style="vertical-align: middle;" />
-    <img src="https://img.shields.io/badge/Firebird-EE3500?style=flat-square" alt="Firebird Database" height="35" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/Firebird-EE3500?style=flat-square" alt="Firebird Database" height="35" style="vertical-align: middle;" />
+  </span>
 </p>
 
 <h3>Tools</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=webstorm" width="35" height="35" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square" height="35" style="vertical-align: middle;" />
+  <span style="white-space: nowrap;">
+    <img src="https://skillicons.dev/icons?i=webstorm" width="35" height="35" style="vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square" height="35" style="vertical-align: middle;" />
+  </span>
 
-  <img src="https://skillicons.dev/icons?i=pycharm" width="35" height="35" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square" height="35" style="vertical-align: middle;" />
+  <span style="white-space: nowrap;">
+    <img src="https://skillicons.dev/icons?i=pycharm" width="35" height="35" style="vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square" height="35" style="vertical-align: middle;" />
+  </span>
 
-  <img src="https://skillicons.dev/icons?i=vscode" width="35" height="35" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square" height="35" style="vertical-align: middle;" />
+  <span style="white-space: nowrap;">
+    <img src="https://skillicons.dev/icons?i=vscode" width="35" height="35" style="vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square" height="35" style="vertical-align: middle;" />
+  </span>
 
-  <img src="https://skillicons.dev/icons?i=postman" width="35" height="35" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square" height="35" style="vertical-align: middle;" />
+  <span style="white-space: nowrap;">
+    <img src="https://skillicons.dev/icons?i=postman" width="35" height="35" style="vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square" height="35" style="vertical-align: middle;" />
+  </span>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="35" height="35" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square" height="35" style="vertical-align: middle;" />
+  <span style="white-space: nowrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="35" height="35" style="vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square" height="35" style="vertical-align: middle;" />
+  </span>
 
-  <img src="https://skillicons.dev/icons?i=figma" width="35" height="35" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square" height="35" style="vertical-align: middle;" />
+  <span style="white-space: nowrap;">
+    <img src="https://skillicons.dev/icons?i=figma" width="35" height="35" style="vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square" height="35" style="vertical-align: middle;" />
+  </span>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="35" height="35" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square" height="35" style="vertical-align: middle;" />
+  <span style="white-space: nowrap;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" width="35" height="35" style="vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square" height="35" style="vertical-align: middle;" />
+  </span>
 </p>
 
 <h2>💫 Featured Projects</h3>
