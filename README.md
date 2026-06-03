@@ -9,17 +9,22 @@ Full Stack Developer | React & Python Enthusiast | Building web applications and
 
 <h3>FrontEnd</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=react" width="35" height="35" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square" height="35" style="vertical-align: middle;" />
-
-  <img src="https://skillicons.dev/icons?i=js" width="35" height="35" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square" height="35" style="vertical-align: middle;" />
-
-  <img src="https://skillicons.dev/icons?i=css" width="35" height="35" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square" height="35" style="vertical-align: middle;" />
-
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="35" height="35" style="vertical-align: middle;" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square" height="35" style="vertical-align: middle;" />
+  <p>
+    <img src="https://skillicons.dev/icons?i=react" width="35" height="35" style="vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square" height="35" style="vertical-align: middle;" />
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=js" width="35" height="35" style="vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square" height="35" style="vertical-align: middle;" />
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=css" width="35" height="35" style="vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square" height="35" style="vertical-align: middle;" />
+  </p>
+  <p>
+    <img src="https://skillicons.dev/icons?i=bootstrap" width="35" height="35" style="vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square" height="35" style="vertical-align: middle;" />
+  </p>
 </p>
 
 <h3>BackEnd</h3>
