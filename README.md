@@ -50,6 +50,10 @@ Full Stack Developer | React & Python Enthusiast | Building web applications and
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebird/firebird-original.svg" width="25" height="25" style="vertical-align: middle;" />
     <img src="https://img.shields.io/badge/Firebird-EE2500?style=flat-square" alt="Firebird Database" height="25" style="vertical-align: middle;" />
   </span>
+  <span style="white-space: nowrap;">
+    <img src="https://skillicons.dev/icons?i=postgres" width="25" height="25" style="vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square" height="25" style="vertical-align: middle;" />
+  </span>
 </p>
 
 <h3>Tools</h3>
