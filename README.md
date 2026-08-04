@@ -56,6 +56,18 @@ Full Stack Developer | React & Python Enthusiast | Building web applications and
   </span>
 </p>
 
+<h3>Operating Systems</h3>
+<p>
+  <span style="white-space: nowrap;">
+    <img src="https://skillicons.dev/icons?i=mint" width="25" height="25" style="vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/Linux Mint-87CF3E?style=flat-square" height="25" style="vertical-align: middle;" />
+  </span>
+  <span style="white-space: nowrap;">
+    <img src="https://skillicons.dev/icons?i=windows" width="25" height="25" style="vertical-align: middle;" />
+    <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square" height="25" style="vertical-align: middle;" />
+  </span>
+</p>
+    
 <h3>Tools</h3>
 <p>
   <span style="white-space: nowrap;">
