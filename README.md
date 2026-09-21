@@ -11,7 +11,7 @@ Full Stack Developer | React & Python Enthusiast | Building web applications and
 <h3>FrontEnd</h3>
 <p>
   <span style="white-space: nowrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="25" height="25" style="vertical-align: middle;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" width="25" height="25" style="vertical-align: middle;" />
     <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square" height="25" style="vertical-align: middle;" />
   </span>
   
