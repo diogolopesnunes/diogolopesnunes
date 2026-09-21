@@ -39,7 +39,7 @@ Full Stack Developer | React & Python Enthusiast | Building web applications and
 <h3>BackEnd</h3>
 <p>
   <span style="white-space: nowrap;">
-    <img src="https://skillicons.dev/icons?i=python" width="25" height="25" style="vertical-align: middle;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="25" height="25" style="vertical-align: middle;" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" height="25" style="vertical-align: middle;" />
   </span>
 
