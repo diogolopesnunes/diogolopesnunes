@@ -11,7 +11,7 @@ Full Stack Developer | React & Python Enthusiast | Building web applications and
 <h3>FrontEnd</h3>
 <p>
   <span style="white-space: nowrap;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" width="25" height="25" style="vertical-align: middle;" />
+    <img src="https://skillicons.dev/icons?i=react" width="25" height="25" style="vertical-align: middle;" />
     <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square" height="25" style="vertical-align: middle;" />
   </span>
   
@@ -56,7 +56,7 @@ Full Stack Developer | React & Python Enthusiast | Building web applications and
     <img src="https://img.shields.io/badge/Firebird-EE2500?style=flat-square" alt="Firebird Database" height="25" style="vertical-align: middle;" />
   </span>
   <span style="white-space: nowrap;">
-    <img src="https://skillicons.dev/icons?i=postgres" width="25" height="25" style="vertical-align: middle;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="25" height="25" style="vertical-align: middle;" />
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square" height="25" style="vertical-align: middle;" />
   </span>
 </p>
@@ -64,11 +64,11 @@ Full Stack Developer | React & Python Enthusiast | Building web applications and
 <h3>Operating Systems</h3>
 <p>
   <span style="white-space: nowrap;">
-    <img src="https://skillicons.dev/icons?i=mint" width="25" height="25" style="vertical-align: middle;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" width="25" height="25" style="vertical-align: middle;" />
     <img src="https://img.shields.io/badge/Linux Mint-87CF3E?style=flat-square" height="25" style="vertical-align: middle;" />
   </span>
   <span style="white-space: nowrap;">
-    <img src="https://skillicons.dev/icons?i=windows" width="25" height="25" style="vertical-align: middle;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="25" height="25" style="vertical-align: middle;" />
     <img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square" height="25" style="vertical-align: middle;" />
   </span>
 </p>
@@ -76,17 +76,17 @@ Full Stack Developer | React & Python Enthusiast | Building web applications and
 <h3>Tools</h3>
 <p>
   <span style="white-space: nowrap;">
-    <img src="https://skillicons.dev/icons?i=webstorm" width="25" height="25" style="vertical-align: middle;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webstorm/webstorm-original.svg" width="25" height="25" style="vertical-align: middle;" />
     <img src="https://img.shields.io/badge/WebStorm-000000?style=flat-square" height="25" style="vertical-align: middle;" />
   </span>
 
   <span style="white-space: nowrap;">
-    <img src="https://skillicons.dev/icons?i=pycharm" width="25" height="25" style="vertical-align: middle;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="25" height="25" style="vertical-align: middle;" />
     <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square" height="25" style="vertical-align: middle;" />
   </span>
 
   <span style="white-space: nowrap;">
-    <img src="https://skillicons.dev/icons?i=vscode" width="25" height="25" style="vertical-align: middle;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="25" height="25" style="vertical-align: middle;" />
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square" height="25" style="vertical-align: middle;" />
   </span>
 
@@ -101,7 +101,7 @@ Full Stack Developer | React & Python Enthusiast | Building web applications and
   </span>
 
   <span style="white-space: nowrap;">
-    <img src="https://skillicons.dev/icons?i=figma" width="25" height="25" style="vertical-align: middle;" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="25" height="25" style="vertical-align: middle;" />
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square" height="25" style="vertical-align: middle;" />
   </span>
 
